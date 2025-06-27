@@ -14,15 +14,15 @@
 ## 📸 Screenshots
 
 ### UI Landing Page
-![Landing Page](![Screenshot 2025-06-27 185629](https://github.com/user-attachments/assets/ea43a1b9-cd3a-4113-9316-65a0e75f5bf9)
-)
+[Screenshot 2025-06-27 185629](https://github.com/user-attachments/assets/ea43a1b9-cd3a-4113-9316-65a0e75f5bf9)
+
 
 ### Admin Dashboard
-![Admin Panel](![Screenshot 2025-06-27 184244](https://github.com/user-attachments/assets/1d99922d-b0b2-4c92-ad64-44c5a7906d4d)
-)
+[Screenshot 2025-06-27 184244](https://github.com/user-attachments/assets/1d99922d-b0b2-4c92-ad64-44c5a7906d4d)
+
 ### Doctors Dashboard
-![Doctor Panel](![Screenshot 2025-06-27 184151](https://github.com/user-attachments/assets/fbbbf64d-4e8a-42a7-844a-cfb29d03ef72)
-)
+[Screenshot 2025-06-27 184151](https://github.com/user-attachments/assets/fbbbf64d-4e8a-42a7-844a-cfb29d03ef72)
+
 
 ---
 
@@ -56,27 +56,7 @@
 
 ---
 
-## ⚙️ Installation Guide
-
--Clone the repo and install dependencies:
--git clone https://github.com/Palash01-hazra/Prescripto-onestop_doctors_solution.git
--cd Prescripto-onestop_doctors_solution
----
-##🔧 Setup for Frontend
-
--cd frontend
--npm install
--npm run dev
----
-##🔧 Setup for Backend
-
--cd backend
--npm install
--npm run dev
----
 
 ##🙋‍♂️ Author
 -Palash Hazra
----
-##📄 License
--This project is licensed under the MIT License.
+
