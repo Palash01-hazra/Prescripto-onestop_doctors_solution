@@ -14,7 +14,7 @@
 ## 📸 Screenshots
 
 ### UI Landing Page
-![Landing Page](![378403217-f953ae81-7cc8-4b6b-8101-c3aa47d0aada](https://github.com/user-attachments/assets/36bab326-eaaa-4c74-93b1-f9c2ff678430)
+![Landing Page](![Screenshot 2025-06-27 185629](https://github.com/user-attachments/assets/ea43a1b9-cd3a-4113-9316-65a0e75f5bf9)
 )
 
 ### Admin Dashboard
@@ -63,24 +63,25 @@ Clone the repo and install dependencies:
 
 git clone https://github.com/Palash01-hazra/Prescripto-onestop_doctors_solution.git
 cd Prescripto-onestop_doctors_solution
-
-###🔧 Setup for Frontend
+---
+##🔧 Setup for Frontend
 bash
 Copy
 Edit
 cd frontend
 npm install
 npm run dev
-
-###🔧 Setup for Backend
+---
+##🔧 Setup for Backend
 bash
 Copy
 Edit
 cd backend
 npm install
 npm run dev
+---
+##🔐 Environment Variables
 
-###🔐 Environment Variables
 Create a .env file in the backend folder with:
 
 env
@@ -89,8 +90,8 @@ Edit
 PORT=3030
 MONGO_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret_key
-
-###📂 Folder Structure
+---
+##📂 Folder Structure
 bash
 Copy
 Edit
@@ -99,9 +100,9 @@ Prescripto/
 ├── frontend/         # React.js + Tailwind UI
 ├── assets/           # Screenshots and design assets
 └── README.md
-
-###🙋‍♂️ Author
+---
+##🙋‍♂️ Author
 Palash Hazra
-
-###📄 License
+---
+##📄 License
 This project is licensed under the MIT License.
