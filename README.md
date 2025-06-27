@@ -14,7 +14,7 @@
 ## 📸 Screenshots
 
 ### UI Landing Page
-[Screenshot 2025-06-27 185629](https://github.com/user-attachments/assets/ea43a1b9-cd3a-4113-9316-65a0e75f5bf9)
+([Screenshot 2025-06-27 185629](https://github.com/user-attachments/assets/ea43a1b9-cd3a-4113-9316-65a0e75f5bf9))
 
 
 ### Admin Dashboard
