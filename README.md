@@ -58,51 +58,25 @@
 
 ## ⚙️ Installation Guide
 
-Clone the repo and install dependencies:
-
-
-git clone https://github.com/Palash01-hazra/Prescripto-onestop_doctors_solution.git
-cd Prescripto-onestop_doctors_solution
+-Clone the repo and install dependencies:
+-git clone https://github.com/Palash01-hazra/Prescripto-onestop_doctors_solution.git
+-cd Prescripto-onestop_doctors_solution
 ---
 ##🔧 Setup for Frontend
-bash
-Copy
-Edit
-cd frontend
-npm install
-npm run dev
+
+-cd frontend
+-npm install
+-npm run dev
 ---
 ##🔧 Setup for Backend
-bash
-Copy
-Edit
-cd backend
-npm install
-npm run dev
----
-##🔐 Environment Variables
 
-Create a .env file in the backend folder with:
+-cd backend
+-npm install
+-npm run dev
+---
 
-env
-Copy
-Edit
-PORT=3030
-MONGO_URI=your_mongodb_uri
-JWT_SECRET=your_jwt_secret_key
----
-##📂 Folder Structure
-bash
-Copy
-Edit
-Prescripto/
-├── backend/          # Node.js + Express API
-├── frontend/         # React.js + Tailwind UI
-├── assets/           # Screenshots and design assets
-└── README.md
----
 ##🙋‍♂️ Author
-Palash Hazra
+-Palash Hazra
 ---
 ##📄 License
-This project is licensed under the MIT License.
+-This project is licensed under the MIT License.
